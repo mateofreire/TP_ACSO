@@ -1,0 +1,14 @@
+Mateo Freire - mateofreire@udesa.edu.ar
+
+FASE 1: Comparación de string.
+
+La función lee un string de entrada y lo compara con una frase específica.
+Si no coinciden exactamente explota la bomba.
+Se puede ver esto en el uso de string not equal.
+
+FASE 2: Dos números con condiciones.
+
+Se leen dos enteros desde el input y se verifican tres cosas.
+Que ninguno sea cero (x != 0, y != 0).
+Que la suma sea 20603 -> x + y == 20603.
+Que tengan signos opuestos -> x ^ y < 0.
